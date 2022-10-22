@@ -5,7 +5,7 @@
 
 - 📘 Estou aprendendo **HTML, CSS, JavaScript**
 
-- 📷 Regularmente posto vídeos no canal [h1Dev](https://www.youtube.com/h1Dev)
+- 📷 Regularmente posto vídeos no canal [h1Dev](https://www.youtube.com/@h1Dev)
 
 - 📫 Você me encontra em São Paulo/São Paulo/Brazil
 
