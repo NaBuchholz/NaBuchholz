@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou a Nathalia</h1>
-<h3 align="center">Dev. Full Stack Jr. que gosta de chá gelado,RPG e organização.</h3>
+<h3 align="center">Aspirante a Dev. Full Stack Jr. que gosta de chá gelado,RPG e organização.</h3>
 
 - 🔭 Estou atualmente trabalhando no **Meu Portifólio**
 
-- 📘 Estou aprendendo **HTML, CSS, JavaScript**
+- 📘 Estou aprendendo **HTML, CSS, JavaScript, Python**
 
 - 📷 Regularmente posto vídeos no canal [h1Dev](https://www.youtube.com/@h1Dev)
 
