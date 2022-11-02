@@ -9,7 +9,6 @@
 
 - 🎓 Graduanda de **Desenvolvimento Full Stack em Estácio**
 
-- 📫 Você me encontra em **https://www.linkedin.com/in/nathaliabuchholz/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
