@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou a Nathalia</h1>
-<h3 align="center">Futura Dev. Full Stack Jr. que gosta de chá gelado, RPG e organização.</h3>
+<h3 align="center">Dev. Front-End Jr. que gosta de chá gelado, RPG e organização.</h3>
 
 - 🔭 Estou atualmente trabalhando no [Meu Portifólio](https://github.com/NaBuchholz/portifolio)
 
