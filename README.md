@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, eu sou a Nathalia</h1>
 <h3 align="center">Dev. Front-End que gosta de chá gelado, RPG e organização.</h3>
 
+<a href="https://app.rocketseat.com.br/me/nyx"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=nyx&type=card" width="280" alt="Nathalia Vitória Buchholz's Rocket ID"/></a>
+
 - 🔭 Estou atualmente trabalhando no [Meu Portifólio](https://github.com/NaBuchholz/portifolio)
 
 - 📘 Estou atualmente aprendendo **Front End**
