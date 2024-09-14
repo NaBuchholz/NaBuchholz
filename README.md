@@ -1,11 +1,11 @@
-<h1 align="center">Olá 👋, eu sou a Nathalia</h1>
-<h3 align="center">Dev. Front-End que gosta de chá gelado, RPG e organização.</h3>
+<h1 align="center">Olá 👋, sou a Nathalia</h1>
+<h3 align="center">Dev que gosta de chá gelado, RPG e organização.</h3>
 
-- 🔭 Estou atualmente trabalhando no [Meu Portifólio](https://github.com/NaBuchholz/portifolio)
+- 🔭 Estou trabalhando no [Meu Portifólio](https://github.com/NaBuchholz/portifolio)
 
-- 📘 Estou atualmente aprendendo **Front End**
+- 📘 Estou atualmente aprendendo **C**
 
-- 📷 Posto vídeos em [h1Dev](https://www.youtube.com/h1Dev)
+- 📚 Sou Cadete na 42 São Paulo
 
 
 <h3 align="left">Connect with me:</h3>
