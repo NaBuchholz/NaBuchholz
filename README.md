@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou a Nathalia</h1>
 <h3 align="center">Dev que gosta de chá gelado, RPG e organização.</h3>
 
-- 🔭 Estou trabalhando no [Meu Portifólio](https://github.com/NaBuchholz/portifolio)
+- 🔭 Estou trabalhando no [Curriculo Da 42](https://github.com/NaBuchholz/ft_commoncore)
 
 - 📘 Estou atualmente aprendendo **C**
 
