@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, sou a Nathalia</h1>
 <h3 align="center">Dev que gosta de chá gelado, RPG e organização.</h3>
+<a href="https://github.com/oakoudad/badge42" align="center"><img src="https://badge.mediaplus.ma/honeytones/nbuchhol?1337Badge=off&UM6P=off" alt="nbuchhol's 42 stats" /></a>
 
 - 🔭 Estou trabalhando no [Curriculo Da 42](https://github.com/NaBuchholz/ft_commoncore)
 
