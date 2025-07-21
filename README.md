@@ -4,7 +4,7 @@
 
 - 🔭 Estou trabalhando no [Curriculo Da 42](https://github.com/NaBuchholz/ft_commoncore)
 
-- 📘 Estou atualmente aprendendo **C**
+- 📘 Estou atualmente aprendendo **C/C++**
 
 - 📚 Sou Cadete na 42 São Paulo
 
